@@ -1,4 +1,4 @@
-//Nombre: Raul Toledo
+//Nombre:
 //Grupo:
 //Grado:
 //Fecha:
